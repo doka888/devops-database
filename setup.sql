@@ -47,3 +47,12 @@ INSERT INTO Books (
         "https://books.google.com/books/content/images/frontcover/_EnZAQAACAAJ?hl=en
 "
 );
+
+INSERT INTO Books (
+        Name, Author, Image
+) VALUES (
+        "The Game",
+        "By Neil Strauss",
+        "https://books.google.com/books/content/images/frontcover/AzHb1xIyAWQC?hl=en&gbpv=1&dq=the+game&printsec=frontcover
+"
+);
