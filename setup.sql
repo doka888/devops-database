@@ -38,3 +38,12 @@ INSERT INTO Books (
         "J.K. Rowling",
         "https://books.google.com/books/content/images/frontcover/39iYWTb6n6cC?fife=w200-h300"
 );
+
+INSERT INTO Books (
+        Name, Author, Image
+) VALUES (
+        "The Pheonix Project",
+        "Gene Kim",
+        "https://books.google.com/books/content/images/frontcover/_EnZAQAACAAJ?hl=en
+"
+);
